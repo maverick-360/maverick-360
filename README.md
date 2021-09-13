@@ -30,5 +30,8 @@ So nice of you paying a visit!
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverick-360&layout=compact&theme=react&count_private=false" />
 </p>
 
+[![Soumavo's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maverick-360&theme=xcode&line=69bb20&point=69bb84)](https://github.com/maverick-360)
+<p align=center><img width = "300px" src ="https://github-readme-streak-stats.herokuapp.com?user=sagnik1511&theme=darcula&hide_border=false&background=FFFFFF00&theme=merko">&nbsp;<img width = "300px" src="https://github-readme-stats.vercel.app/api?username=sagnik1511&show_icons=true&theme=merko">&nbsp;<img width = "150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagnik1511"></p>
+
 <img src="https://activity-graph.herokuapp.com/graph?username=maverick-360&theme=react-dark"/>
 
