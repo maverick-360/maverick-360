@@ -1,7 +1,7 @@
 ### Hi there 👋
-[![Visits Badge](https://badges.pufler.dev/visits/sahilsaha7773/sahilsaha7773)](https://badges.pufler.dev)
-[![Years Badge](https://badges.pufler.dev/years/sahilsaha7773)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/sahilsaha7773/sahilsaha7773)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/maverick-360/maverick-360)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/maverick-360)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/maverick-360/maverick-360)](https://badges.pufler.dev)
 
 So nice of you for paying a visit!
 
