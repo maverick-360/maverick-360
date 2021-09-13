@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-So nice of you for paying a visit!
+So nice of you paying a visit!
 
 - 🔭 I’m currently persuing Bachelor of Technology in Information Technology at Jalpaiguri Government Engineering College
 - 🌱 I’m currently learning Cross Platform App Development in React Native
