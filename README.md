@@ -9,7 +9,7 @@ So nice of you for paying a visit!
 - 🌱 I’m currently learning Cross Platform App Development in React Native
 - 👯 I’m looking to collaborate on MERN projetcs
 - 🤔 I’m looking for help with React Native
-- 💬 Ask me about Web/ App Development, Assassin's Creed, Call Of Duty
+- 💬 Ask me about Web/ App Development, Assassin's Creed, Call Of Duty, Deathnote, Attack On Titan, Code Geass, Naruto
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Drank KEROSINE thinking it as water!!
 
