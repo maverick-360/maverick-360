@@ -26,5 +26,5 @@ So nice of you paying a visit!
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=maverick-360&count_private=true&show_icons=true&theme=radical" />
 </p>
 
-![Soumavo's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=maverick-360&theme=vision-friendly-dark)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverick-360&layout=compact&theme=react&count_private=false" />
+![Soumavo's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=maverick-360&theme=vision-friendly-dark)
