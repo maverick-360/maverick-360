@@ -1,6 +1,9 @@
 [![Visits Badge](https://badges.pufler.dev/visits/maverick-360/maverick-360)](https://badges.pufler.dev)
+
 [![Years Badge](https://badges.pufler.dev/years/maverick-360)](https://badges.pufler.dev)
+
 [![Updated Badge](https://badges.pufler.dev/updated/maverick-360/maverick-360)](https://badges.pufler.dev)
+
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/maverick-360)](https://badges.pufler.dev)
 
 ### Hi there 👋
