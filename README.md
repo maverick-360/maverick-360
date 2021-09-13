@@ -32,6 +32,6 @@ So nice of you paying a visit!
 
 <p align=center><img src ="https://github-readme-streak-stats.herokuapp.com?user=maverick-360&theme=vision-friendly-dark"></p>
 
-[![Soumavo's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maverick-360&theme=react-dark&line=69bb20&point=69bb84)](https://github.com/maverick-360)
+[![Soumavo's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=maverick-360&theme=react-dark)](https://github.com/maverick-360)
 
 
