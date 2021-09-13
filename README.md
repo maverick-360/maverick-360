@@ -30,4 +30,4 @@ So nice of you paying a visit!
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverick-360&layout=compact&theme=react&count_private=false" />
 </p>
 
-![Soumavo's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=maverick-360&theme=vision-friendly-dark)
+<img src="https://activity-graph.herokuapp.com/graph?username=maverick-360&theme=react-dark"/>
