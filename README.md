@@ -31,3 +31,7 @@ So nice of you paying a visit!
 </p>
 
 <img src="https://activity-graph.herokuapp.com/graph?username=maverick-360&theme=react-dark"/>
+
+<p align="left">
+  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&quoteCategory=motivational"/>
+</p>
