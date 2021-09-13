@@ -1,8 +1,9 @@
-### Hi there 👋
 [![Visits Badge](https://badges.pufler.dev/visits/maverick-360/maverick-360)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/maverick-360)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/maverick-360/maverick-360)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/maverick-360)](https://badges.pufler.dev)
+
+### Hi there 👋
 
 So nice of you for paying a visit!
 
@@ -23,4 +24,5 @@ So nice of you for paying a visit!
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=maverick-360&count_private=true&show_icons=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maverick-360&layout=compact&theme=react&count_private=false" />
 </p>
