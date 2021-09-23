@@ -3,7 +3,7 @@
 
 So nice of you paying a visit!
 
-- 🔭 I’m currently persuing Bachelor of Technology in Information Technology at Jalpaiguri Government Engineering College
+- 🔭 I’m currently pursuing Bachelor of Technology in Information Technology at Jalpaiguri Government Engineering College
 - 🌱 I’m currently learning Cross Platform App Development in React Native
 - 👯 I’m looking to collaborate on MERN projetcs
 - 🤔 I’m looking for help with React Native
